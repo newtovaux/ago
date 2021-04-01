@@ -1,6 +1,6 @@
 {
   "name": "@newtovaux/ago",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node.js module to change dates into x-secs/mins/hours/days/week/years ago string",
   "main": "index.js",
   "scripts": {
