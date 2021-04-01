@@ -1,0 +1,22 @@
+{
+  "name": "@newtovaux/ago",
+  "version": "1.0.0",
+  "description": "Node.js module to change dates into x-secs/mins/hours/days/week/years ago string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newtovaux/ago.git"
+  },
+  "keywords": [
+    "ago"
+  ],
+  "author": "newtovaux",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/newtovaux/ago/issues"
+  },
+  "homepage": "https://github.com/newtovaux/ago#readme"
+}
