@@ -1,7 +1,7 @@
 {
   "name": "@newtovaux/ago",
   "version": "1.0.1",
-  "description": "Node.js module to change dates into x-secs/mins/hours/days/week/years ago string",
+  "description": "A Node.js module to generate a string representation of a time in the past, compared with now, in the format of x-secs/mins/hours/days/week/years ago",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
