@@ -30,8 +30,8 @@ exports.ago = function (d) {
         return `${diffts} second${diffts !== 1 ? 's':''} ago`;
       } else if ((diffts >= 60) && (diffts < 60 * 59))
       {
-
-        return `${diffts} minutes ago`;
+        const mins = Math.floor(diffts / 60)
+        return `${mins} minute${mins !== 1 ? 's':''} ago`;
       }
     }
     return "";
